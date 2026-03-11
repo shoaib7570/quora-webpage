@@ -30,5 +30,3 @@ The platform focuses on **simplicity, usability, and streamlined content control
 - **JavaScript**
 
 ---
-
-## 📂 Project Structure
